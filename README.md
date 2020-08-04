@@ -1,2 +1,3 @@
 # blogs
-tech blogs 
+
+tech blogs.
